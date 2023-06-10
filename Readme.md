@@ -14,7 +14,7 @@ The Hash Table implementation is provided in the `Hash Table.py` file. To use th
   hash_table = HashTable()
 
 
-##Example code
+## Example code
 from HashTable import HashTable
 
 hash_table = HashTable()
