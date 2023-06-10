@@ -13,19 +13,4 @@ The Hash Table implementation is provided in the `Hash Table.py` file. To use th
 3.then instanciate it 
   hash_table = HashTable()
 
-
-## Example code
-from HashTable import HashTable
-
-hash_table = HashTable()
-
-hash_table.put("apple", 5)
-hash_table.put("banana", 2)
-
-print(hash_table.get("apple"))    # Output: 5
-print(hash_table.get("banana"))   # Output: 2
-
-hash_table.remove("apple")
-
-print(hash_table.contains("apple"))   # Output: False
-print(hash_table.size())              # Output: 1
+4. When you run it you have the menu for inserting, searching & remove features.
